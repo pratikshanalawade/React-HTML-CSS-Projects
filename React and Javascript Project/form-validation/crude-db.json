@@ -1,0 +1,65 @@
+{
+  "user": [
+    {
+      "firstName": "Megha",
+      "lastName": "Kadam",
+      "age": "21",
+      "education": "B.Tech",
+      "designation": "",
+      "email": "megha@gmail.com",
+      "password": "megha@123",
+      "mobile": "9975115704",
+      "gender": "female",
+      "hobbies": [
+        "coding"
+      ],
+      "id": "2"
+    },
+    {
+      "firstName": "Shivani",
+      "lastName": "mane",
+      "age": "21",
+      "education": "B.Tech Entc",
+      "designation": "",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "mobile": "2324252627",
+      "gender": "female",
+      "hobbies": [
+        "coding",
+        "movies"
+      ],
+      "id": "3"
+    },
+    {
+      "firstName": "Anajali ",
+      "lastName": " Nalawade",
+      "age": "24",
+      "education": "CMA",
+      "designation": "Manager",
+      "email": "anjali@gmail.com",
+      "password": "anjali@123",
+      "mobile": "6758493012",
+      "gender": "female",
+      "hobbies": [
+        "gaming"
+      ],
+      "id": "4"
+    },
+    {
+      "id": "71d1",
+      "firstName": "prati",
+      "lastName": "nalawade",
+      "age": "24",
+      "education": "B.Tech",
+      "designation": "",
+      "email": "pratikshanalawade2000@gmail.com",
+      "password": "",
+      "mobile": "7410737512",
+      "gender": "female",
+      "hobbies": [
+        "movies"
+      ]
+    }
+  ]
+}
